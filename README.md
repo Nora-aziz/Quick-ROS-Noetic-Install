@@ -10,6 +10,6 @@ Single line ROS Noetic Install للتنزيل
 wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_install_noetic.sh && chmod +x ./ros_install_noetic.sh && ./ros_install_noetic.sh
 
 
-Single line ROS Noetic Uninstall للإلغاء التنزيل
+Single line ROS Noetic Uninstall لإلغاء التنزيل
 
 wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_uninstall_noetic.sh && chmod +x ./ros_uninstall
