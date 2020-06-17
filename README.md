@@ -1,4 +1,4 @@
-# Quick-ROS-Noetic-Install
+# Quick-ROS-Noetic-Install Ubuntu 20.04
 Installation script for ROS Noetic Ninjemys
 
 This repository is having a simple bash script to install ROS Noetic Ninjemys.  يحتوي هذا المستودع على نص باش بسيط للتثبيت 
